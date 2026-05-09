@@ -17,6 +17,7 @@ My journey in software development is driven by curiosity, creativity, and conti
 * JavaScript
 * React
 * React Native
+* Kotlin
 * Responsive Web Design
 
 ### Backend Development
